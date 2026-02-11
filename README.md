@@ -1,2 +1,25 @@
-# Online-Retail-Product-Analytics-Time-Series-Analysis
-Exploratory and time-series analysis of online retail transactions to identify sales trends, customer behavior, and business insights with Product Recommendation using Python.
+🛒 Online Retail – Product Analytics & Time-Series Analysis
+📌 Project Overview
+
+This project analyzes online retail transactions to understand sales trends and customer behavior.
+
+🎯 Objectives
+
+Clean and prepare retail data
+
+Analyze monthly trends
+
+Identify repeat-customer patterns
+
+🔹 Key Features
+
+Data cleaning and preprocessing
+
+Time-series analysis of revenue and orders
+
+Visualization of sales patterns
+
+🛠 Tools
+
+Python (Pandas, Matplotlib)
+
